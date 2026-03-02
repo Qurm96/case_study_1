@@ -27,10 +27,3 @@ https://www.kaggle.com/datasets/riteshahlawat/covid19-mexico-patient-health-data
 
 ## Results
 - Accuracy: 0.72 - 0.74
-
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
